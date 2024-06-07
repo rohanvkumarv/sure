@@ -12,7 +12,7 @@ const Stats = () => {
             <div className="space-y-6 justify-between text-gray-600 md:flex flex-row-reverse md:gap-6 md:space-y-0 lg:gap-12 lg:items-center">
                 <div className="md:5/12 lg:w-1/2">
               
-                < dotlottie-player 
+                <dotlottie-player 
                 src="https://lottie.host/d4069ddd-04a3-4be5-84ad-75f1fc880f9d/5oNvd6Mv6u.json" 
                 background="transparent" 
                 speed="1" 
