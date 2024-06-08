@@ -3,7 +3,7 @@ import React from 'react';
 const TermsAndConditions: React.FC = () => {
   return (
     <div className="relative bg-gray-900" id="home">
-      <div style={styles.bodyy} className="relative">
+      <div style={styles.body} className="relative">
         <div
           aria-hidden="true"
           className="absolute inset-0 grid grid-cols-2 -space-x-52 opacity-40 dark:opacity-20"
@@ -417,18 +417,18 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
   <li>rohanvkumarv@gmail.com</li>
 
  </ul>
-
+</div>
 
             </div>
           </div>
         </div>
       </div>
-    </div>
+   
   );
 };
 
 const styles = {
-  bodyy: {
+  body: {
     textAlign: 'center',
   },
   container: {
