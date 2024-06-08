@@ -1,6 +1,7 @@
 // components/PrivacyPolicy.js
-
-const TermsAndConditions = () => {
+import React from 'react';
+import { CSSProperties } from 'react';
+const PrivacyPolicy = () => {
   return (
 
     <div className="relative bg-gray-900" id="home">
@@ -280,11 +281,9 @@ const TermsAndConditions = () => {
   );
 };
 
-const styles = {
-  
+const styles: { [key: string]: CSSProperties } = {
   bodyy: {
     textAlign: 'center',
-   
   },
   container: {
     marginTop: '100px',
@@ -307,6 +306,6 @@ const styles = {
   }
 };
 
-export default TermsAndConditions;
+export default PrivacyPolicy;
 
 

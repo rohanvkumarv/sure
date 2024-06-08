@@ -18,7 +18,7 @@ const TermsAndConditions = () => {
 
     
       <h1 style={styles.h1} className="my-8 text-2xl font-bold text-white md:text-4xl relative pt-36 ml-auto">
-        Privacy Policy
+        Terms And Conditions
       </h1>
    
      
