@@ -1,11 +1,12 @@
 // components/PrivacyPolicy.js
-
+import React from 'react';
+import { CSSProperties } from 'react';
 const TermsAndConditions = () => {
   return (
 
     <div className="relative bg-gray-900" id="home">
     
-    <div style={styles.bodyy} className="relative ">
+    <div style={styles.body} className="relative ">
       <div
         aria-hidden="true"
         className="absolute inset-0 grid grid-cols-2 -space-x-52 opacity-40 dark:opacity-20"
@@ -433,11 +434,9 @@ const TermsAndConditions = () => {
   );
 };
 
-const styles = {
-  
-  bodyy: {
+const styles: { [key: string]: CSSProperties } = {
+  body: {
     textAlign: 'center',
-   
   },
   container: {
     marginTop: '100px',
