@@ -5,6 +5,7 @@ import Cta from './_components/Cta'
 import Features from './_components/Features'
 import Hero from './_components/Hero'
 import Stats from './_components/Stats'
+// import PrivacyPolicy from '../policy/_components/PrivacyPolicy'
 
 const page = () => {
   return (
@@ -14,6 +15,7 @@ const page = () => {
       <Stats />
       <Cta />
       <Article />
+    
     </main>
   )
 }

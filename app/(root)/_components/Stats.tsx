@@ -20,6 +20,7 @@ const Stats = () => {
                 loop 
                 autoplay
             ></dotlottie-player>
+
          
                 </div>
                 <div className="md:7/12 lg:w-1/2">
@@ -233,6 +234,7 @@ Clients can review files and choose to pay without immediate download, allowing 
                     loop
                     autoplay
                  ></dotlottie-player>
+
 
 
           

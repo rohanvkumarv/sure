@@ -176,17 +176,17 @@ const Footer = () => {
                                 We change the way Freelance Industry works
                             </span>
                             <span className="flex justify-between text-gray-400">
-                                <a href="#" className="font-medium">
+                                <a href="/terms" className="font-medium">
                                     Terms of Use{" "}
                                 </a>
-                                <a href="#" className="font-medium">
+                                <a href="/policy" className="font-medium">
                                     {" "}
                                     Privacy Policy
                                 </a>
                             </span>
                             <span className="block text-gray-500 dark:text-gray-400">
                                 Need help?{" "}
-                                <a href="#" className="font-semibold text-gray-600 dark:text-white">
+                                <a href="/" className="font-semibold text-gray-600 dark:text-white">
                                     {" "}
                                     Contact Us
                                 </a>
