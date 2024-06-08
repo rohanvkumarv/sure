@@ -34,89 +34,93 @@ const TermsAndConditions: React.FC = () => {
               AGREEMENT TO OUR LEGAL TERMS 
               <br />We are xsure ('Company', 'we', 'us', or 'our'). We operate the website https://sure-jade.vercel.app (the 'Site'), as well as any other related products and services that refer or link to these legal terms (the 'Legal Terms') (collectively, the 'Services'). We Ensure: Freelancers Get Paid and, Clients Receive Satisfactory Work You can contact us by phone at 06395335690, email at rohanvkumarv@gmail.com, or by mail to Agra, India, Uttar Pradesh, India. These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ('you'), and nicemesh, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY. We will provide you with prior notice of any scheduled changes to the Services you are using. The modified Legal Terms will become effective upon posting or notifying you by rohanvkumarv@gmail.com, as stated in the email message. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms. The Services are intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the Services. We recommend that you print a copy of these Legal Terms for your records.
 </p>
-              <table>
-                <tr>
-                  <th>Section</th>
-                </tr>
-                <tr>
-                  <td>1. Our Services</td>
-                </tr>
-                <tr>
-                  <td>2. Intellectual Property Rights</td>
-                </tr>
-                <tr>
-                  <td>3. User Representations</td>
-                </tr>
-                <tr>
-                  <td>4. User Registration</td>
-                </tr>
-                <tr>
-                  <td>5. Purchases and Payment</td>
-                </tr>
-                <tr>
-                  <td>6. Subscriptions</td>
-                </tr>
-                <tr>
-                  <td>7. Prohibited Activities</td>
-                </tr>
-                <tr>
-                  <td>8. User Generated Contributions</td>
-                </tr>
-                <tr>
-                  <td>9. Contribution Licence</td>
-                </tr>
-                <tr>
-                  <td>10. Guidelines for Reviews</td>
-                </tr>
-                <tr>
-                  <td>11. Social Media</td>
-                </tr>
-                <tr>
-                  <td>12. Services Management</td>
-                </tr>
-                <tr>
-                  <td>13. Privacy Policy</td>
-                </tr>
-                <tr>
-                  <td>14. Term and Termination</td>
-                </tr>
-                <tr>
-                  <td>15. Modifications and Interruptions</td>
-                </tr>
-                <tr>
-                  <td>16. Governing Law</td>
-                </tr>
-                <tr>
-                  <td>17. Dispute Resolution</td>
-                </tr>
-                <tr>
-                  <td>18. Corrections</td>
-                </tr>
-                <tr>
-                  <td>19. Disclaimer</td>
-                </tr>
-                <tr>
-                  <td>20. Limitations of Liability</td>
-                </tr>
-                <tr>
-                  <td>21. Indemnification</td>
-                </tr>
-                <tr>
-                  <td>22. User Data</td>
-                </tr>
-                <tr>
-                  <td>23. Electronic Communications, Transactions, and Signatures</td>
-                </tr>
-                <tr>
-                  <td>24. SMS Text Messaging</td>
-                </tr>
-                <tr>
-                  <td>25. Miscellaneous</td>
-                </tr>
-                <tr>
-                  <td>26. Contact Us</td>
-                </tr>
-              </table>
+<table>
+      <thead>
+        <tr>
+          <th>Section</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1. Our Services</td>
+        </tr>
+        <tr>
+          <td>2. Intellectual Property Rights</td>
+        </tr>
+        <tr>
+          <td>3. User Representations</td>
+        </tr>
+        <tr>
+          <td>4. User Registration</td>
+        </tr>
+        <tr>
+          <td>5. Purchases and Payment</td>
+        </tr>
+        <tr>
+          <td>6. Subscriptions</td>
+        </tr>
+        <tr>
+          <td>7. Prohibited Activities</td>
+        </tr>
+        <tr>
+          <td>8. User Generated Contributions</td>
+        </tr>
+        <tr>
+          <td>9. Contribution Licence</td>
+        </tr>
+        <tr>
+          <td>10. Guidelines for Reviews</td>
+        </tr>
+        <tr>
+          <td>11. Social Media</td>
+        </tr>
+        <tr>
+          <td>12. Services Management</td>
+        </tr>
+        <tr>
+          <td>13. Privacy Policy</td>
+        </tr>
+        <tr>
+          <td>14. Term and Termination</td>
+        </tr>
+        <tr>
+          <td>15. Modifications and Interruptions</td>
+        </tr>
+        <tr>
+          <td>16. Governing Law</td>
+        </tr>
+        <tr>
+          <td>17. Dispute Resolution</td>
+        </tr>
+        <tr>
+          <td>18. Corrections</td>
+        </tr>
+        <tr>
+          <td>19. Disclaimer</td>
+        </tr>
+        <tr>
+          <td>20. Limitations of Liability</td>
+        </tr>
+        <tr>
+          <td>21. Indemnification</td>
+        </tr>
+        <tr>
+          <td>22. User Data</td>
+        </tr>
+        <tr>
+          <td>23. Electronic Communications, Transactions, and Signatures</td>
+        </tr>
+        <tr>
+          <td>24. SMS Text Messaging</td>
+        </tr>
+        <tr>
+          <td>25. Miscellaneous</td>
+        </tr>
+        <tr>
+          <td>26. Contact Us</td>
+        </tr>
+      </tbody>
+    </table>
               <h2 className=' my-8 text-2xl font-bold text-white md:text-4xl '>   1. OUR SERVICES</h2>
               <p  className='text-gray-300'>
 
