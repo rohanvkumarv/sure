@@ -436,7 +436,7 @@ const TermsAndConditions = () => {
 
 const styles: { [key: string]: CSSProperties } = {
   body: {
-    textAlign: 'center',
+    textAlign: 'center', 
   },
   container: {
     marginTop: '100px',
